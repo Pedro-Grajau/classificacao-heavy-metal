@@ -1,0 +1,2 @@
+link: https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv
+Depois de baixar os datasets. execute em ordem o pré-processamento e modelo
